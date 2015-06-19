@@ -1,2 +1,2 @@
 # Encode_Decode
-Encode and decode data.
+A simple script that encodes and decodes data.
